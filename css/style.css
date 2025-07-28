@@ -1,0 +1,17 @@
+.primary-color {
+  color: #4896f9;
+}
+
+.menu-part-two > a > i:hover {
+  color: #4896f9;
+}
+
+.menu > a > i {
+  background-color: #434246;
+  padding: 15px;
+  border-radius: 50%;
+}
+
+.menu > a > i:hover {
+  color: #4896f9;
+}
